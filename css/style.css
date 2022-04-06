@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    margin: 40px;
+}
+
+h1 {
+    color: #6B3A28;
+    text-align: center;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(255, 255, 227);
+}
+
+a {
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    display: block;
+    margin: 40px auto;
+    width: 200px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.uppcase {
+    text-transform: uppercase;
+}
+
+.box {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.red {
+    background-color: red;
+    height: 200px;
+}
+
+.example {
+    position: relative;
+}
+
+
